@@ -10,6 +10,44 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.plants {
+  display: flex;
+  justify-content: center;
+  margin: 52px;
+}
+
+.barberry {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 200px;
+}
+
+.chili {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pepper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.saffron {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  display: flex;
 }
 
 /* do not edit this footer */
